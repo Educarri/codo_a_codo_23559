@@ -1,0 +1,19 @@
+/* div
+{
+text-align: center;
+color: blue;
+border: yellow solid;
+margin: 10%;
+} */
+
+.formato_default {
+    border: black solid;
+    margin: 2%;
+    text-align: center;
+  }
+
+  .contenedor {
+  
+    display: flex;
+    align-items: center;
+  }
