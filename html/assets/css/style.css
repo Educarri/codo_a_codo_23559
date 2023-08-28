@@ -4,14 +4,15 @@ text-align: center;
 color: rgba(17, 25, 94, 0.7);
 border: rgb(75, 75, 37) solid;
 margin: 10%;
+pading: 5x;
 }
 
 .formato_default {
     border: gray solid;
     margin: 2%;
     text-align: center;
-    background-color:#D5D8DC
-    
+    background-color:#7eaecd;
+        
   }
 
   .contenedor {  
